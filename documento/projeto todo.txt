@@ -1,0 +1,29 @@
+-- Planejamento
+
+Entidadese e Relacionamentos
+
+-- Usuário
+
+-- Usuário X Tarefa
+--- Um usuário pode criar várias tarefas
+
+-- Usuário X Categoria
+--- Um usuário pode ter várias categoria
+
+
+-- Tarefas
+
+-- Tarefas Usuário
+--- Uma tarefa SEMPRE vai pertencer a um único usuário
+
+
+-- Tarefas X Categorias
+--- Uma tarefa SEMPRE vai pertencer a uma categoria
+
+-- Categorias
+
+-- Categorias X Tarefas
+-- Uma categoria pode TER várias tarefas
+
+-- Categoria X Usuário
+--- Uma categoria SEMPRE vai pertencer a um usuário
