@@ -27,3 +27,21 @@ Entidadese e Relacionamentos
 
 -- Categoria X Usuário
 --- Uma categoria SEMPRE vai pertencer a um usuário
+
+- Detalhamento das Migrations
+
+- Usuáro:
+-- Padrão do laravel
+
+- Tarefa:
+- id
+- titulo
+- data
+- categoria_id
+- usuario_id
+
+- Categoria:
+- id
+- titulo
+- cor (hexadecimal)
+- usuario_id
